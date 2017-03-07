@@ -10,6 +10,8 @@ namespace TeamPowered
     {
         static void Main(string[] args)
         {
+            var teams = "hi";
+            var people = "peeps";
         }
     }
 }
